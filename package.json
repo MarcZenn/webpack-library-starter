@@ -1,8 +1,8 @@
 {
-  "name": "webpack-library-starter",
+  "name": "parawidgets",
   "version": "1.0.2",
   "description": "Produce universal library with webpack and es6",
-  "main": "lib/webpack-library-starter.js",
+  "main": "parawidgets",
   "scripts": {
     "build": "webpack --env dev && webpack --env build && npm run test",
     "dev": "webpack --progress --colors --watch --env dev",
